@@ -1,1 +1,6 @@
-
+{
+  "name": "ChicagoCardanoClub",
+  "description": "Cardano stake pool based in Chicago. Cmmitted to improving Chicago.",
+  "ticker": "CCC",
+  "homepage": "https://chicagocardanoclub.com"
+}
